@@ -3,6 +3,7 @@
 <body>
 
 <?php
+echo "Hi most welcome to"
 echo "My first PHP script!";
 ?>
 
